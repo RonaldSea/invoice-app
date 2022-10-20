@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/invoice-app/static/js/main.dce5f9fb.js",
+    "index.html": "/invoice-app/index.html",
+    "main.dce5f9fb.js.map": "/invoice-app/static/js/main.dce5f9fb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dce5f9fb.js"
+  ]
+}
